@@ -1,0 +1,95 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"Value": 11,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleY",
+			"Value": 11,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"Value": 11,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": -0.464,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"Value": 3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk8",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk9",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk10",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "walk7",
+			"Value": 5,
+			"Blend": "Add"
+		}
+	]
+}

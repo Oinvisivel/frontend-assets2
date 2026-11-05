@@ -1,0 +1,10 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "motion1",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "exp8",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeScale",
+			"Value": 0.698,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PupilScale",
+			"Value": 0.86,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0.024,
+			"Blend": "Add"
+		}
+	]
+}

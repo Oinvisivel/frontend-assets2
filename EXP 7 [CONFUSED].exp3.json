@@ -1,0 +1,35 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamMouthForm",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "MouthAdd",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "EyeScale",
+			"Value": -0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "exp7",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
